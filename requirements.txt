@@ -1,0 +1,6 @@
+torch
+torchvision
+PIL
+cv2
+io
+streamlit
